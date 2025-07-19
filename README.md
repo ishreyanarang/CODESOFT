@@ -17,11 +17,6 @@ A GUI-based To-Do List app that helps users manage daily tasks effectively.
 - Scrollable list with clean UI
 - Highlighted task selection
 
-#### Technologies Used:
-- Python
-- Tkinter
-
-> 📸 **UI Highlight**: Soft green selection, minimal modern layout, responsive buttons.
 
 ---
 
@@ -35,11 +30,6 @@ A simple calculator app capable of performing basic arithmetic operations.
 - Error handling for invalid operations
 - Clear button for resetting calculations
 
-#### Technologies Used:
-- Python
-- Tkinter
-
-> 📸 **UI Highlight**: Enhanced layout with color-coded operator buttons, resizable grid layout, intuitive design.
 
 ---
 
@@ -53,11 +43,5 @@ A secure password generator tool with user-defined password length.
 - Validation for minimum password length
 - Accept and Reset functionality
 
-#### Technologies Used:
-- Python
-- Tkinter
-- string & random modules
-
-> 📸 **UI Highlight**: Emoji-labeled fields, color-coded buttons (Generate, Accept, Reset), elegant heading.
 
 ---
